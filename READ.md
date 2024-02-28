@@ -1,0 +1,1 @@
+ссылка на документацию https://python-dependency-injector.ets-labs.org/providers/index.html
